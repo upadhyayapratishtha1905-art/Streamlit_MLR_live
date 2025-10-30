@@ -12,7 +12,7 @@ import joblib
 import numpy as np
 
 # Load the default model
-MODEL_PATH = "Starbucks_MLR.pkl"
+MODEL_PATH = "Starbucks_MLR (1).pkl"
 model = joblib.load(MODEL_PATH)
 
 # App title
